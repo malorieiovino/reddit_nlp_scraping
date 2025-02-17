@@ -22,9 +22,10 @@ This project investigates the usage and context of **queer slurs** across three 
 - **Sentiment analysis** to assess how slurs are used in context.  
 - **Frequency distributions** of slurs and common collocates.
 
-## 📊 Results (Coming Soon)  
+## 📊 Results  
 - Initial findings suggest that queer slurs used in designated queer spaces such as r/Queer or r/LGBT are used in a more positive or neutral way. In spaces such as r/conservative, queer slurs are used in more inflammatory and hateful contexts. 
 - Detailed analysis and visualization to be added.
+- This project was for a corpus linguistics class for my master's program
 
 ## 🚀 How to Run This Project  
 1. Clone the repository:
