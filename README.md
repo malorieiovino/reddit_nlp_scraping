@@ -42,3 +42,6 @@ You can view the full Jupyter Notebook here:
 🚀 [View Notebook on nbviewer](https://nbviewer.org/github/malorieiovino/reddit_nlp_scraping/tree/main/)  
 📂 [View Notebook on GitHub](https://github.com/malorieiovino/reddit_nlp_scraping/blob/main/YOUR_NOTEBOOK.ipynb)
 
+⚠ **Disclaimer**: This project is for personal research purposes only. No contributions or modifications are permitted.
+
+
