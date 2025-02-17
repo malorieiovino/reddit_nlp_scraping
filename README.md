@@ -30,3 +30,10 @@ This project investigates the usage and context of **queer slurs** across three 
 1. Clone the repository:
    ```bash
    git clone https://github.com/malorieiovino/reddit-slur-analysis.git
+
+## 📓 Jupyter Notebook
+
+You can view the full Jupyter Notebook here:  
+🚀 [View Notebook on nbviewer](https://nbviewer.org/github/malorieiovino/reddit_nlp_scraping/tree/main/)  
+📂 [View Notebook on GitHub](https://github.com/malorieiovino/reddit_nlp_scraping/blob/main/YOUR_NOTEBOOK.ipynb)
+
