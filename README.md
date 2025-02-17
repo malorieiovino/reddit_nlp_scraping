@@ -31,6 +31,12 @@ This project investigates the usage and context of **queer slurs** across three 
 - Detailed analysis and visualization to be added.
 - This project was for a corpus linguistics class for my master's program
 
+## 📊 Sentiment Distribution by Subreddit  
+This visualization shows the sentiment distribution (Negative, Neutral, Positive) of queer slur mentions across three different subreddits.
+
+![Sentiment Distribution](sentiment_distribution.png)
+
+
 ## 🚀 How to Run This Project  
 1. Clone the repository:
    ```bash
