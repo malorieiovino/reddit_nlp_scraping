@@ -23,7 +23,7 @@ This project investigates the usage and context of **queer slurs** across three 
 - **Frequency distributions** of slurs and common collocates.
 
 ## 📊 Results (Coming Soon)  
-- Initial findings suggest [INSERT BRIEF KEY FINDINGS].
+- Initial findings suggest that queer slurs used in designated queer spaces such as r/Queer or r/LGBT are used in a more positive or neutral way. In spaces such as r/conservative, queer slurs are used in more inflammatory and hateful contexts. 
 - Detailed analysis and visualization to be added.
 
 ## 🚀 How to Run This Project  
