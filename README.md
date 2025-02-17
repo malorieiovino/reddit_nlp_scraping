@@ -1,6 +1,10 @@
 
 # 📊 Queer Slur Analysis on Reddit  
 
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![NLP](https://img.shields.io/badge/NLP-spaCy%20|%20NLTK-green)
+![Scraping](https://img.shields.io/badge/Web%20Scraping-PRAW-orange)
+
 ## 📄 Project Overview  
 This project investigates the usage and context of **queer slurs** across three different subreddits. Using **web scraping (Reddit API & PRAW), NLP techniques, and collocational analysis**, this study explores how slurs are used in different online spaces, focusing on **performativity, reclamation, and linguistic shifts**.
 
